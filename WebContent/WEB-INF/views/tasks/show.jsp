@@ -25,7 +25,7 @@
         </p>
 
         <p>
-            <a href="${pageContext.request.contextPath}/edit?id=${task.id}">このメッセージを編集する</a>
+            <a href="${pageContext.request.contextPath}/edit?id=${task.id}">このタスクを編集する</a>
         </p>
 
 
